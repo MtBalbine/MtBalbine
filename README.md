@@ -14,7 +14,7 @@ A little about me...
 
 <div align="center">
   <a href="https://github.com/MtBalbine"><img height="180" src="https://github-stats-extended.vercel.app/api?username=MtBalbine&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats" /></a>
-  <a href="https://github.com/MtBalbine"><img height="160" src="https://github-stats-extended.vercel.app/api/top-langs?username=MtBalbine&layout=compact&langs_count=8&theme=dracula&hide=jupyter%20notebook" /></a>
+<a href="https://github.com/MtBalbine"><img height="160" src="https://github-stats-extended.vercel.app/api/top-langs?username=MtBalbine&layout=compact&langs_count=8&theme=dracula&hide=jupyter%20notebook" alt="Top Languages" /></a>
 </div>
 
 <div align="center">

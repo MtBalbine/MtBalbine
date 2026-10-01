@@ -1,14 +1,5 @@
 👋 Hi there! I'm Matheus Balbine Simões
 
-A little about me...
-
-👨‍💻 I’m currently in my 4th semester studying Computer Engineering at Pontifical Catholic University of Campinas (PUC-Campinas).
-
-🚀 I’m highly engaged in creating solutions involving microcontrollers (Arduino, ESP32), logic circuits (VHDL), and interactive WebAR (A-Frame, AR.js).
-
-💻 My passions include running, weight training, following Formula 1, and constantly exploring new hardware and software integrations.
-
-🎓 I’m always seeking to sharpen my skills in algorithms, object-oriented design, and IoT to stay ahead in technology.
 
 <div align="center">
   <a href="https://github.com/MtBalbine"><img height="180" src="https://github-stats-extended.vercel.app/api?username=MtBalbine&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats" /></a>

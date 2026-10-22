@@ -5,7 +5,7 @@
   <a href="https://github.com/MtBalbine"><img height="180" src="https://github-stats-extended.vercel.app/api?username=MtBalbine&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats" /></a>
   <a href="https://github.com/MtBalbine"><img height="160" src="https://github-stats-extended.vercel.app/api/top-langs?username=MtBalbine&layout=compact&langs_count=8&theme=dracula" alt="Top Languages" /></a>
 </div>
-
+<!--
 <div align="center">
   <h3>Skills & Tools</h3>
   <div>
@@ -16,7 +16,7 @@
     <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   </div>
 </div>
-
+-->
 <br>
 
 <div align="center">

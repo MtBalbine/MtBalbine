@@ -22,5 +22,5 @@
 <div align="center">
   <h3>Contact Me</h3>
   <a href="https://br.linkedin.com/in/matheus-balbine-898690353" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="LINK_DO_SEU_INSTAGRAM" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+<!--  <a href="LINK_DO_SEU_INSTAGRAM" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a> -->
   <a href="mailto:matheus.balbine@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
